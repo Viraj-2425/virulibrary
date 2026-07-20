@@ -27,7 +27,7 @@ NxtLibrary/
 📷 Screenshots
 Desktop View
 
-(Add Screenshot Here)
+
 
 🎯 Future Improvements
 Add JavaScript functionality
