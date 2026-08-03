@@ -30,7 +30,6 @@ NxtLibrary/
 📷 Screenshots
 Desktop View
 
-
 🎯 Future Improvements
 Add JavaScript functionality
 Search books feature
