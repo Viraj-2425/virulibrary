@@ -29,8 +29,7 @@ NxtLibrary/
 ├── README.md
 └── images/
     └── screenshot.png
-📷 Screenshots
-Desktop View
+
 
 🎯 Future Improvements
 Add JavaScript functionality
