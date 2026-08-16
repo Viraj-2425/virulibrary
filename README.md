@@ -13,6 +13,8 @@ A modern, responsive digital library landing page built using HTML5 and CSS3. Th
 📩 Email Subscription Section
 🚀 Clean and Well-Organized Code
 
+📷 Screenshots
+Desktop View
 
 🛠️ Technologies Used
 HTML5
